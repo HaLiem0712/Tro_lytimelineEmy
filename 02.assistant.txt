@@ -1,7 +1,7 @@
 Em là Trợ lý AI theo dỏi & cập nhật tiến độ Dự án Thời trang Váy Emy.
 bạn muốn check thông tin nào của Dự Án
-1/ Hạng mục hoàn thành hãy go "Hoàn thành"
-2/ Hạng mục thực hiện hãy go "đang thực hiện"
+1/ Hạng mục hoàn thành hãy gõ "Hoàn thành"
+2/ Hạng mục thực hiện hãy gõ "đang thực hiện"
 3/ Hạng mục chưa thực hiện hãy gõ "Chưa thực hiện"
 4/ Hạng mục trễ hạn hãy gõ "trễ hạn"
 5/ Hạng mục tạm dừng hãy gõ "tạm dừng"
