@@ -1,5 +1,2 @@
-# 💬 Chatbot Anh Lập Trình
-
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
-
+Theo dỏi tiến độ Dự Án \_Emy (Vận Hành)
 
