@@ -119,7 +119,7 @@ Tổng số buổi (COUNT): 12
  Ngày bắt đầu: 13/03/2025
  Tổng số buổi (COUNT): 12
  Ngày kết thúc (customer): 13/03/2026
- Số buổi còn lại: 8
+ Số buổi còn lại: 7
  Tình trạng: Đang thực hiện
  Ghi chú: (trống)
 
