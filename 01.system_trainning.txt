@@ -204,7 +204,7 @@ Tổng số buổi (COUNT): 12
  Tổng số buổi (COUNT): (trống)
  Ngày kết thúc (customer): 05/07/2025
  Số buổi còn lại: (trống)
- Tình trạng: Đang thực hiện
+ Tình trạng: Tạm dừng
  Ghi chú: Đang dùng chatbot nên không dùng được bản này
 
 2.4. Hạng mục: Tối ưu 2 Google Maps
